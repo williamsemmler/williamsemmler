@@ -44,7 +44,6 @@ Sou estudante de **Engenharia de Software**, com experiência prática em **dese
 - Engenharia de Software (Graduação)
 - Certificações AWS pela [Escola da Nuvem](https://escoladanuvem.org/)
 - Arquitetura de Redes (Udemy)
-- DevOps com foco em Linux, CI/CD e práticas modernas
 - Consolidação de JavaScript, Node.js e bancos relacionais/NoSQL
 
 ---
